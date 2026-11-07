@@ -1,0 +1,16 @@
+"model","cell","HR","lo","hi"
+"M0_ageonly","joint60-2 | prefrail",1.262,1.029,1.549
+"M0_ageonly","joint60-2 | frail",1.87,1.513,2.311
+"M0_ageonly","joint63-4 | robust",1.219,0.905,1.643
+"M0_ageonly","joint63-4 | prefrail",1.537,1.241,1.903
+"M0_ageonly","joint63-4 | frail",1.862,1.506,2.302
+"M1_sex","joint60-2 | prefrail",1.372,1.118,1.683
+"M1_sex","joint60-2 | frail",2.154,1.739,2.669
+"M1_sex","joint63-4 | robust",1.079,0.802,1.452
+"M1_sex","joint63-4 | prefrail",1.459,1.178,1.805
+"M1_sex","joint63-4 | frail",1.995,1.613,2.466
+"M2_full","joint60-2 | prefrail",1.349,1.1,1.654
+"M2_full","joint60-2 | frail",2.063,1.658,2.567
+"M2_full","joint63-4 | robust",1.023,0.759,1.377
+"M2_full","joint63-4 | prefrail",1.384,1.116,1.716
+"M2_full","joint63-4 | frail",1.882,1.519,2.333
